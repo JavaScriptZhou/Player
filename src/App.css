@@ -1,3 +1,6 @@
+/* body{
+  -webkit-app-region: drag
+} */
 .App {
   text-align: center;
 }
